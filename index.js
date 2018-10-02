@@ -6,4 +6,4 @@ const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + '!'
 
 const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
-const shortWGreeting = 'Welcome, ' + currentUser.chatAt(0) + '!';
+const shortWreeting = 'Welcome, ' + currentUser.chatAt(0) + '!';
